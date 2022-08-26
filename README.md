@@ -39,5 +39,5 @@ Totally sending 0 logs to 192.168.0.82
 
 This part will reset alertHelper including config and lastefecth timestamp. Please run it as below example:
 ```sh
-$ python2 alertHelper.py reset
+$ python3 alertHelper.py reset
 ```
